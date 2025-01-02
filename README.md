@@ -1,5 +1,5 @@
 Uploading temperature sensor data in Thing Speak cloud
-NAME:Akash
+NAME:S.T.Akash
 
 REG NO:24900964
 
